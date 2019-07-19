@@ -5,12 +5,10 @@ a [Sails v1](https://sailsjs.com) application
 
 ### Links
 
-+ [Sails framework documentation](https://sailsjs.com/get-started)
-+ [Version notes / upgrading](https://sailsjs.com/documentation/upgrading)
-+ [Deployment tips](https://sailsjs.com/documentation/concepts/deployment)
-+ [Community support options](https://sailsjs.com/support)
-+ [Professional / enterprise options](https://sailsjs.com/enterprise)
+after run sails app please open url 
+http://localhost:1337/api/create
 
+you can get the issue what i'm taking about, and see code in controller that which type of object i want to insert.
 
 ### Version info
 
