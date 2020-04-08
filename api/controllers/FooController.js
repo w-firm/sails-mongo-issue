@@ -1,3 +1,4 @@
+
 /**
  * FooController
  *
@@ -25,3 +26,6 @@ module.exports = {
     });
   }
 };
+
+
+//this should work now
